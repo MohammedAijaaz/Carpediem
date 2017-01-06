@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "231486582689",
+    "firebase_url": "https://carpediem-453c7.firebaseio.com",
+    "project_id": "carpediem-453c7",
+    "storage_bucket": "carpediem-453c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231486582689:android:08d9f8808cba906a",
+        "android_client_info": {
+          "package_name": "com.example.mdaij.carpediem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231486582689-b446h0t8gjlfn7qko80tnnhjsd27ragq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlQEzPfVJByl9Fuuy5CIc1NjXIRv9aOxY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
